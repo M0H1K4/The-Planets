@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/The-Planets/static/css/main.487fdd69.css",
+    "main.css": "/The-Planets/static/css/main.7c8febad.css",
     "main.js": "/The-Planets/static/js/main.435a093a.js",
     "static/js/787.46097082.chunk.js": "/The-Planets/static/js/787.46097082.chunk.js",
     "static/media/763062.jpg": "/The-Planets/static/media/763062.3be41a1f5824032a844a.jpg",
@@ -14,12 +14,12 @@
     "static/media/planet-mars.svg": "/The-Planets/static/media/planet-mars.f9dc1ca45a888b568829cd38ca525dcb.svg",
     "static/media/planet-mercury.svg": "/The-Planets/static/media/planet-mercury.1fce205c50f4657418d4562ca24b008a.svg",
     "index.html": "/The-Planets/index.html",
-    "main.487fdd69.css.map": "/The-Planets/static/css/main.487fdd69.css.map",
+    "main.7c8febad.css.map": "/The-Planets/static/css/main.7c8febad.css.map",
     "main.435a093a.js.map": "/The-Planets/static/js/main.435a093a.js.map",
     "787.46097082.chunk.js.map": "/The-Planets/static/js/787.46097082.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.487fdd69.css",
+    "static/css/main.7c8febad.css",
     "static/js/main.435a093a.js"
   ]
 }
